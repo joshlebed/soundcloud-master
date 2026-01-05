@@ -1,0 +1,26 @@
+# Audio files (don't commit test files)
+*.wav
+*.mp3
+*.aif
+*.aiff
+*.flac
+
+# macOS
+.DS_Store
+._*
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test output
+*_SC.wav
+*_TEST*.wav
+test_output/
